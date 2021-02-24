@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhoupan922.github.io</id>
     <title>周同学的小站</title>
-    <updated>2021-02-24T03:25:39.552Z</updated>
+    <updated>2021-02-24T03:26:06.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhoupan922.github.io"/>
     <link rel="self" href="https://zhoupan922.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://zhoupan922.github.io/images/avatar.png</logo>
     <icon>https://zhoupan922.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 周同学的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>https://zhoupan922.github.io/post/you-qing-lian-jie/</id>
+        <link href="https://zhoupan922.github.io/post/you-qing-lian-jie/">
+        </link>
+        <updated>2021-02-24T03:19:01.000Z</updated>
+        <content type="html"><![CDATA[<p>我的B站：https://space.bilibili.com/538107449<br>
+我的SharePoint：https://xihuedu.sharepoint.com<br>
+Chrome 扩展：https://www.gugeapps.net/<br>
+最新视频：https://www.bilibili.com/video/BV1gz4y127Jb</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周同学】苹果所有iPhone的比较，吐血整理...5亿像素超清版（严禁盗图）]]></title>
         <id>https://zhoupan922.github.io/post/ping-guo-suo-you-iphone-de-bi-jiao-tu-xie-zheng-li-5-yi-xiang-su-chao-qing-ban-yan-jin-dao-tu/</id>
