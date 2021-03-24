@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhoupan922.github.io</id>
     <title>周同学的小站</title>
-    <updated>2021-03-24T08:10:17.302Z</updated>
+    <updated>2021-03-24T08:17:19.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhoupan922.github.io"/>
     <link rel="self" href="https://zhoupan922.github.io/atom.xml"/>
@@ -272,6 +272,18 @@ BBD度盘高速地址获取工具<br>
 <p>完成安装后必须重启系统，然后点击虚拟机上的进入全屏模式，macOS即可全屏显示</p>
 <p>恭喜宝宝们完成了安装！</p>
 <p>写得累死了......</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞赏]]></title>
+        <id>https://zhoupan922.github.io/post/money/</id>
+        <link href="https://zhoupan922.github.io/post/money/">
+        </link>
+        <updated>2020-01-01T08:06:39.000Z</updated>
+        <content type="html"><![CDATA[<p>如果你觉得本站做得还不错的话，麻烦给站长一点赞助，就是对我做网站的最好激励。<br>
+支付宝<img src="https://zhoupan922.github.io/post-images/1616573771311.jpg" alt="" loading="lazy"><br>
+微信<img src="https://zhoupan922.github.io/post-images/1616573782982.jpg" alt="" loading="lazy"><br>
+哔哩哔哩充电：老师好我是周同学</p>
 ]]></content>
     </entry>
 </feed>
