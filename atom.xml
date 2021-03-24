@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhoupan922.github.io</id>
     <title>周同学的小站</title>
-    <updated>2021-03-24T07:09:24.420Z</updated>
+    <updated>2021-03-24T07:17:54.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhoupan922.github.io"/>
     <link rel="self" href="https://zhoupan922.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://zhoupan922.github.io/images/avatar.png</logo>
     <icon>https://zhoupan922.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 周同学的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[【周同学】知名激活工具HEU KMS推出20.0版]]></title>
+        <id>https://zhoupan922.github.io/post/heukms20/</id>
+        <link href="https://zhoupan922.github.io/post/heukms20/">
+        </link>
+        <updated>2021-03-24T07:14:32.000Z</updated>
+        <content type="html"><![CDATA[<p>知名本地激活工具HEU KMS目前已经推出v20.0版 , 作为大版本更新此次原作者知彼而知己也为其准备全新界面。<br>
+功能方面该工具其实主要功能已经趋于完善主要是对细枝末节的改进，所以此次更新的重点就是将用户界面重做。<br>
+外观的改变不仅只是换个皮肤，而是让用户在进行操作时可以更方便更顺手，避免想要找个功能需要点击很多次。</p>
+<p>HEU KMS介绍：<br>
+HEU KMS是Windows 用户群里颇为知名的激活工具 , 该工具主要是在本地搭建KMS服务器通过GVLK密钥激活。<br>
+目前网上有许多 KMS 激活工具但多数含有捆绑甚至恶意软件，例如篡改浏览器主页或静默下载安装广告软件等。<br>
+HEU KMS的优势在于纯粹的本地搭建服务器几乎无需联网 ，同时不含有任何广告或后门程序不篡改系统设置等。<br>
+此外该工具还支持备份还原等功能可以备份激活信息，当然现在多数用户都是数字激活似乎也用不到 KMS 工具。</p>
+<p>操作系统和软件支持版本：<br>
+操作系统方面：Windows Vista、Windows 7、Windows Server 2008、Windows Server 2008R2 OEM激活。<br>
+数字激活方面：Windows 10系列所有零售版本 (Retail) 支持数字激活，新增Windows 10 LTSC 2019数字激活。<br>
+办公软件方面：支持激活批量授权Office 2019 及以下版本，支持转换Office365HomePrem为Vl版再KMS激活。<br>
+小提示：使用KMS激活而非数字权利激活则有效期为180天，也就是说每180天就需要重新激活一次否则会过期。<br>
+小提示：转换激活 Office 365 Home Prem 相当于Office 2019等版本，并非可以破解激活Office 365系列服务。</p>
+<p>被报毒是怎么回事？安全吗？<br>
+此类激活工具附带的某些模块被报毒是比较正常的情况，例如早前火绒就进行报毒经过反馈后火绒已经解除拦截。<br>
+其他安全软件情况也是类似的，例如系统自带的Microsoft Defender也同样会将HEU KMS等类似软件进行拦截。<br>
+需要提醒的是安全软件进行拦截是正常的情况，因为网上有很多类似工具确实带毒或者被人改过加上恶意模块等。<br>
+所以下载此类工具后务必核对开发者提供的哈希值，如果哈希值对的上那可以添加白名单，否则就应该立即删除。</p>
+<p>HEU KMS v20.0版下载地址：<br>
+知彼而知己HEU KMS Activator v20.0版下载地址：https://wwx.lanzoux.com/i68pAjfpcyf 密码：4194<br>
+诸如 Windows Defender / Microsoft Defender 等安全软件会对该工具报毒，需要手动放行后才可以使用。<br>
+HEU_KMS_Activator_v20.0.0.exe     核对SHA1：203A41698EAA8CF04EE77275A14C1AA0DF186D16<br>
+上述地址乃作者也就是知彼而知己自己的分享账号，基于安全考虑请不要在网上直接搜索下载此类激活工具。<br>
+因为很多下载站或系统站分享的版本都是经过篡改的、投毒的、带后门的，从原始作者这里下载的更可靠些。<br>
+当然现在多数用户都已取得Windows 10数字激活权利似乎也用不到KMS , 所以有兴趣的用户下载当备用吧。<br>
+毕竟现在的HEU KMS 工具也跟随时代潮流支持数字激活功能，也就是同时支持数字激活和GVLK KMS激活。</p>
+<p>v20.0版及近期版本更新日志：<br>
+1.采用全新的UI设计告别繁琐操作，主界面的橘黄色按钮为智能激活按钮，点击后将自动判断状态提供激活方式。<br>
+2.优化KMS服务器、修复旧版本中查看密钥功能的错误问题 , 使用查看密钥功能可自动检测当前系统使用的密钥。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周同学】服务器太贵？不会写代码？周同学教你10分钟免费搭建一个私人博客网站！]]></title>
         <id>https://zhoupan922.github.io/post/gridea-git01/</id>
@@ -34,8 +72,8 @@ Note设置为用户名，勾选repo，提交后复制密钥，推出了就要重
     </entry>
     <entry>
         <title type="html"><![CDATA[【周同学】某度网盘限速？不存在的！]]></title>
-        <id>https://zhoupan922.github.io/post/zhou-tong-xue-zhuan-lan-mou-du-wang-pan-xian-su-bu-cun-zai-de/</id>
-        <link href="https://zhoupan922.github.io/post/zhou-tong-xue-zhuan-lan-mou-du-wang-pan-xian-su-bu-cun-zai-de/">
+        <id>https://zhoupan922.github.io/post/baiduyun-pojie/</id>
+        <link href="https://zhoupan922.github.io/post/baiduyun-pojie/">
         </link>
         <updated>2021-02-24T03:35:57.000Z</updated>
         <content type="html"><![CDATA[<p>##目录<br>
